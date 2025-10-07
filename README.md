@@ -23,7 +23,7 @@ It’s a beginner-friendly project that helps you understand:
 
 ## 🧩 Technologies Used
 
-- **Python 3.x**
+- **Python **
 - **NLTK (Natural Language Toolkit)**
 - **Regular Expressions (re module)**
 
