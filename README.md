@@ -1,6 +1,6 @@
 # ChatterMind – A Rule-Based Chatbot using Python & NLTK
 
-Welcome to **ChatterMind**, a simple and smart chatbot built using **Python** and the **Natural Language Toolkit (NLTK)**.
+Welcome to **ChatterMind**, a simple and smart chatbot built using **Python** and the **Natural Language Toolkit (NLTK)**
 
 This chatbot uses **regular expressions** and **pattern–response pairs** to simulate human-like conversations.
 
